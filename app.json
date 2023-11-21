@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.tiwarisuraj0852.ScientificCalculator"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ffe9dbef-3a74-4143-baa6-ab8cc7291fc6"
+      }
+    },
+    "owner": "tiwarisuraj0852"
   }
 }
